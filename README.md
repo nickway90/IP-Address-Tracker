@@ -2,20 +2,6 @@
 
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-
-
 ## Overview
 This is my 
 
@@ -62,11 +48,6 @@ I want to continue getting better at knowing how to render data based off of API
 - [StackOverFlow](https://www.stackoverflow.com) - Best site for looking up how to do things from in coding
 - [CodeSandbox](https://codesandbox.io/s/how-to-change-center-dynamically-in-react-leaflet-v3x-d8rn7?file=/src/App.js) - CodeSandbox I was able to see examples of those using leaflet and this link specifically I learned how to dynamically change my map.
 
-
-
-## Author
-
-- Frontend Mentor - [@ljcutts](https://www.frontendmentor.io/profile/ljcutts)
 
 
 
